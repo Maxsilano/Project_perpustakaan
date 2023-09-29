@@ -1,0 +1,40 @@
+  /* Style the header */
+.header {
+  background-image: url("images(1\).jpeg");
+  padding: 20px;
+  text-align: center;
+};
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #787a74;
+};
+  /* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+};
+  /* Change color on hover */
+.topnav a:hover {
+  background-color: #f8f8f8;
+  color: black;
+};
+#ppdb{
+  height: 100vh;
+  border: solid red;
+}
+
+#profil{
+  height: 100vh;
+  border: solid red;
+}
+
+#datasiswa{
+  height: 100vh;
+  border: solid red;
+
+}
